@@ -90,7 +90,6 @@ let @p = '2ggVGga-:'
 " Autocomplete goodness
 """"""""""""""""""""""""""
 set omnifunc=syntaxcomplete#Complete " Why haven't I been using this?! Amazing
-" set tags=/home/jordan/.vim/vimtags
 """"""""""""""""""""""""""
 " Netrw settings
 """"""""""""""""""""""""""
