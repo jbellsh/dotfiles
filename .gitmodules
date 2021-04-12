@@ -13,3 +13,30 @@
 [submodule ".vim/pack/syntax/start/vim-colors-solarized"]
 	path = .vim/pack/syntax/start/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = /home/jordan/.vim/pack/interface/start/vim-airline/
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = /home/jordan/.vim/pack/interface/start/vim-airline-themes/
+[submodule ".vim/pack/functions/start/vim-easy-align"]
+	path = .vim/pack/functions/start/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule ".vim/pack/interface/start/indentLine"]
+	path = .vim/pack/interface/start/indentLine
+	url = https://github.com/Yggdroot/indentLine
+[submodule ".vim/pack/interface/start/vim-airline"]
+	path = .vim/pack/interface/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/pack/interface/start/vim-airline-themes"]
+	path = .vim/pack/interface/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule ".vim/pack/interface/start/vim-colors-solarized"]
+	path = .vim/pack/interface/start/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/pack/syntax/start/ale"]
+	path = .vim/pack/syntax/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/pack/syntax/start/vim-fish"]
+	path = .vim/pack/syntax/start/vim-fish
+	url = https://github.com/dag/vim-fish

@@ -27,6 +27,8 @@ This allows us use our home folder as the working tree, so checkout will downloa
 This repo also includes the following vim plugins as submodules (for easy installation):
 * [ale](https://github.com/dense-analysis/ale)
 * [indentLine](https://github.com/Yggdroot/indentLine)
+* [vim-airlines-themes](https://github.com/vim-airline/vim-airline-themes)
+* [vim-airlines](https://github.com/vim-airline/vim-airline)
 * [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 * [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 * [vim-fish](https://github.com/dag/vim-fish)

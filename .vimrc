@@ -98,3 +98,12 @@ let g:netrw_liststyle    = 3
 let g:netrw_browse_split = 4
 let g:netrw_altv         = 1
 let g:netrw_winsize      = 25
+""""""""""""""""""""""""""
+" Airline settings
+""""""""""""""""""""""""""
+" Automatically displays all buffers when there's only one tab open
+let g:airline#extensions#tabline#enabled = 1
+" Enable proper powerline font glyphs
+let g:airline_powerline_fonts            = 1
+" Let airline use ale extensions
+let g:airline#extensions#ale#enabled     = 1
