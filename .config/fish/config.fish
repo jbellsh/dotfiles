@@ -20,10 +20,11 @@ alias ls="ls --color=auto --group-directories-first"
 alias mail="mailx"
 alias nmv="mv --no-clobber "
 alias novlc="parallel vlc --no-one-instance --start-paused ::: "
+alias rcp='rsync -e ssh'
 alias rmlint="rmlint -o sh:rmlint.sh -o pretty:stdout -o summary:stdout "
 alias rsync="rsync -P --info=progress2 -avzh"
-alias rcp='rsync -e ssh'
 alias safemode="fish --private"
+alias sqlite="sqlite3 -header -column "
 alias sxiv="sxiv -o"
 alias uptime="uptime -p"
 alias youtube-dl="youtube-dl --user-agent \"$USERAGENT\" "
